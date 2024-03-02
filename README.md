@@ -1,1 +1,1 @@
-# Student-database-manager
+# Myntra-clone
